@@ -13,6 +13,7 @@ privacy.html, terms.html    copies of the YouJavu app's policies, so old youjavu
 app-ads.txt                 ad network line(s); must stay at the site root
 CNAME                       youjavu.com (GitHub Pages custom domain)
 img/                        WebP images made from the games' screenshots and Astra's art
+media/                      game trailers (720x1280 MP4, about 3 MB) and their poster pictures
 ```
 
 Preview locally: `python3 -m http.server 8765` in this folder, then open http://localhost:8765/.

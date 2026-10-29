@@ -1,4 +1,4 @@
-# youjavu.com — the YouJavu games website
+# youjavu.com — the YouJavu Studio website
 
 Plain static site (no build step): home, a page per game, privacy policies, support, `app-ads.txt`.
 

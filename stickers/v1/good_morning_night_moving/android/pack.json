@@ -1,0 +1,146 @@
+{
+ "id": "good_morning_night_moving",
+ "title": "Ball Sort Moods: Good Morning and Night (Moving)",
+ "short_title": "Good Morning and Night (Moving)",
+ "order": 32,
+ "animated": true,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_dash.webp",
+   "emojis": [
+    "☀️",
+    "😄"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Good morning!\""
+  },
+  {
+   "file": "02_glitz.webp",
+   "emojis": [
+    "🌅",
+    "✨"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Rise and shine\""
+  },
+  {
+   "file": "03_dozy.webp",
+   "emojis": [
+    "😴",
+    "⏰"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Five more minutes...\""
+  },
+  {
+   "file": "04_scamp.webp",
+   "emojis": [
+    "⏰",
+    "😜"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"Morning, sleepyhead!\""
+  },
+  {
+   "file": "05_snug.webp",
+   "emojis": [
+    "☀️",
+    "🤗"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Have a lovely day\""
+  },
+  {
+   "file": "06_stump.webp",
+   "emojis": [
+    "☕",
+    "😐"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"Coffee first.\""
+  },
+  {
+   "file": "07_wibble.webp",
+   "emojis": [
+    "📅",
+    "😩"
+   ],
+   "accessibility_text": "Wibble, the giggly wobbler, from the Ball Sort Moods game: \"Is it Friday yet?\""
+  },
+  {
+   "file": "08_beam.webp",
+   "emojis": [
+    "☀️",
+    "😊"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"Hello sunshine!\""
+  },
+  {
+   "file": "09_pip.webp",
+   "emojis": [
+    "🌙",
+    "😊"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"Good night\""
+  },
+  {
+   "file": "10_encore.webp",
+   "emojis": [
+    "💤",
+    "✨"
+   ],
+   "accessibility_text": "Encore, who loves an audience, from the Ball Sort Moods game: \"Sweet dreams\""
+  },
+  {
+   "file": "11_grumbo.webp",
+   "emojis": [
+    "😴",
+    "😒"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"Too tired. Bye.\""
+  },
+  {
+   "file": "12_quark.webp",
+   "emojis": [
+    "🔋",
+    "😴"
+   ],
+   "accessibility_text": "Quark, strange and fun, from the Ball Sort Moods game: \"Shutting down...\""
+  },
+  {
+   "file": "13_peep.webp",
+   "emojis": [
+    "🌙",
+    "👀"
+   ],
+   "accessibility_text": "Peep, the curious one, from the Ball Sort Moods game: \"Still awake?\""
+  },
+  {
+   "file": "14_fizz.webp",
+   "emojis": [
+    "🌙",
+    "😉"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"Night night!\""
+  },
+  {
+   "file": "15_group.webp",
+   "emojis": [
+    "☀️",
+    "☕"
+   ],
+   "accessibility_text": "Good morning, gang! The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "16_group.webp",
+   "emojis": [
+    "😴",
+    "🌙"
+   ],
+   "accessibility_text": "Sleep tight. The Moods from the Ball Sort Moods game"
+  }
+ ],
+ "tray": "tray.png",
+ "publisher": "From the Ball Sort Moods game",
+ "publisher_email": "youjavu.app@gmail.com",
+ "publisher_website": "https://youjavu.com/ballsortmoods/",
+ "privacy_policy_website": "https://youjavu.com/ballsortmoods/privacy.html",
+ "license_agreement_website": "",
+ "android_play_store_link": "https://play.google.com/store/apps/details?id=app.ballsortmoods",
+ "ios_app_store_link": ""
+}

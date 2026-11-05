@@ -1,0 +1,146 @@
+{
+ "id": "diwali",
+ "title": "Ball Sort Moods: Diwali",
+ "short_title": "Diwali",
+ "order": 49,
+ "animated": false,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_dash.webp",
+   "emojis": [
+    "🪔",
+    "🎉"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Happy Diwali!\""
+  },
+  {
+   "file": "02_glitz.webp",
+   "emojis": [
+    "✨",
+    "😌"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Shine bright!\""
+  },
+  {
+   "file": "03_dozy.webp",
+   "emojis": [
+    "😴",
+    "🍬"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Too many sweets... zzz\""
+  },
+  {
+   "file": "04_scamp.webp",
+   "emojis": [
+    "😜",
+    "🍬"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"One more sweet?\""
+  },
+  {
+   "file": "05_snug.webp",
+   "emojis": [
+    "🪔",
+    "❤️"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Love and light\""
+  },
+  {
+   "file": "06_stump.webp",
+   "emojis": [
+    "😐",
+    "💡"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"Lights on.\""
+  },
+  {
+   "file": "07_wibble.webp",
+   "emojis": [
+    "🤩",
+    "🌸"
+   ],
+   "accessibility_text": "Wibble, the giggly wobbler, from the Ball Sort Moods game: \"So pretty!\""
+  },
+  {
+   "file": "08_grumbo.webp",
+   "emojis": [
+    "😤",
+    "🎇"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"Fine. Happy Diwali.\""
+  },
+  {
+   "file": "09_fizz.webp",
+   "emojis": [
+    "🎆",
+    "🤩"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"Fireworks time!\""
+  },
+  {
+   "file": "10_encore.webp",
+   "emojis": [
+    "🪔",
+    "🎭"
+   ],
+   "accessibility_text": "Encore, who loves an audience, from the Ball Sort Moods game: \"Festival of lights!\""
+  },
+  {
+   "file": "11_pip.webp",
+   "emojis": [
+    "🪔",
+    "😊"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"Warm wishes\""
+  },
+  {
+   "file": "12_beam.webp",
+   "emojis": [
+    "🌼",
+    "😃"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"Light up your life\""
+  },
+  {
+   "file": "13_peep.webp",
+   "emojis": [
+    "🍬",
+    "👀"
+   ],
+   "accessibility_text": "Peep, the curious one, from the Ball Sort Moods game: \"Sweets for me?\""
+  },
+  {
+   "file": "14_quark.webp",
+   "emojis": [
+    "✨",
+    "💯"
+   ],
+   "accessibility_text": "Glow level: 100%. The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "15_group.webp",
+   "emojis": [
+    "🪔",
+    "🎊"
+   ],
+   "accessibility_text": "Happy Diwali, all! The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "16_group.webp",
+   "emojis": [
+    "🍬",
+    "🤗"
+   ],
+   "accessibility_text": "Sweets together. The Moods from the Ball Sort Moods game"
+  }
+ ],
+ "tray": "tray.png",
+ "publisher": "From the Ball Sort Moods game",
+ "publisher_email": "youjavu.app@gmail.com",
+ "publisher_website": "https://youjavu.com/ballsortmoods/",
+ "privacy_policy_website": "https://youjavu.com/ballsortmoods/privacy.html",
+ "license_agreement_website": "",
+ "android_play_store_link": "https://play.google.com/store/apps/details?id=app.ballsortmoods",
+ "ios_app_store_link": ""
+}

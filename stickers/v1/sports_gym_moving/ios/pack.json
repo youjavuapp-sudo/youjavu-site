@@ -1,0 +1,135 @@
+{
+ "id": "sports_gym_moving",
+ "title": "Ball Sort Moods: Sports and Gym (Moving)",
+ "short_title": "Sports and Gym (Moving)",
+ "order": 22,
+ "animated": true,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_dash.png",
+   "emojis": [
+    "⚽",
+    "💪"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Let's go!\""
+  },
+  {
+   "file": "02_glitz.png",
+   "emojis": [
+    "🏆"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Champion!\""
+  },
+  {
+   "file": "03_dozy.png",
+   "emojis": [
+    "😴",
+    "🛋️"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Rest day\""
+  },
+  {
+   "file": "04_scamp.png",
+   "emojis": [
+    "😏",
+    "👍"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"Nice try!\""
+  },
+  {
+   "file": "05_snug.png",
+   "emojis": [
+    "🤗",
+    "💪"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Team you\""
+  },
+  {
+   "file": "06_stump.png",
+   "emojis": [
+    "🏋️",
+    "💪"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"No pain no gain\""
+  },
+  {
+   "file": "07_wibble.png",
+   "emojis": [
+    "🧘"
+   ],
+   "accessibility_text": "Wibble, the giggly wobbler, from the Ball Sort Moods game: \"Finding balance\""
+  },
+  {
+   "file": "08_grumbo.png",
+   "emojis": [
+    "😠",
+    "☕"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"Not a morning person\""
+  },
+  {
+   "file": "09_fizz.png",
+   "emojis": [
+    "📣",
+    "🎉"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"Go team!\""
+  },
+  {
+   "file": "10_encore.png",
+   "emojis": [
+    "💃",
+    "🏆"
+   ],
+   "accessibility_text": "Encore, who loves an audience, from the Ball Sort Moods game: \"Victory dance\""
+  },
+  {
+   "file": "11_pip.png",
+   "emojis": [
+    "💪",
+    "🙂"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"I can do it\""
+  },
+  {
+   "file": "12_beam.png",
+   "emojis": [
+    "👍",
+    "💪"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"Keep going!\""
+  },
+  {
+   "file": "13_peep.png",
+   "emojis": [
+    "🙋"
+   ],
+   "accessibility_text": "Peep, the curious one, from the Ball Sort Moods game: \"My turn?\""
+  },
+  {
+   "file": "14_quark.png",
+   "emojis": [
+    "🤖",
+    "🏋️"
+   ],
+   "accessibility_text": "Quark, strange and fun, from the Ball Sort Moods game: \"New technique\""
+  },
+  {
+   "file": "15_group.png",
+   "emojis": [
+    "🏆",
+    "🎉"
+   ],
+   "accessibility_text": "Dash, Stump and Beam: We did it! The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "16_group.png",
+   "emojis": [
+    "😴",
+    "🧊"
+   ],
+   "accessibility_text": "Dozy, Grumbo and Wibble: Recovery squad. The Moods from the Ball Sort Moods game"
+  }
+ ]
+}

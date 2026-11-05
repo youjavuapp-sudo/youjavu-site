@@ -1,0 +1,151 @@
+{
+ "id": "valentines_moving",
+ "title": "Ball Sort Moods: Valentine's (Moving)",
+ "short_title": "Valentine's (Moving)",
+ "order": 8,
+ "animated": true,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_snug.png",
+   "emojis": [
+    "💘",
+    "🥺",
+    "❤️"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Be mine?\""
+  },
+  {
+   "file": "02_snug.png",
+   "emojis": [
+    "❤️",
+    "😍",
+    "🥰"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Love you!\""
+  },
+  {
+   "file": "03_snug.png",
+   "emojis": [
+    "🤗",
+    "💕"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Hugs!\""
+  },
+  {
+   "file": "04_snug.png",
+   "emojis": [
+    "😘",
+    "💋"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Mwah!\""
+  },
+  {
+   "file": "05_snug.png",
+   "emojis": [
+    "🎁",
+    "💝",
+    "❤️"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"For you\""
+  },
+  {
+   "file": "06_dash.png",
+   "emojis": [
+    "🏃",
+    "🌹",
+    "💨"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Rushing to you!\""
+  },
+  {
+   "file": "07_glitz.png",
+   "emojis": [
+    "👑",
+    "💖",
+    "😎"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Lucky you!\""
+  },
+  {
+   "file": "08_dozy.png",
+   "emojis": [
+    "😴",
+    "💤",
+    "💕"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Dream of you\""
+  },
+  {
+   "file": "09_scamp.png",
+   "emojis": [
+    "💘",
+    "😈",
+    "🏹"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"Gotcha!\""
+  },
+  {
+   "file": "10_grumbo.png",
+   "emojis": [
+    "😒",
+    "🌹",
+    "❤️"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"Fine. Love you.\""
+  },
+  {
+   "file": "11_stump.png",
+   "emojis": [
+    "🍫",
+    "😤"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"Mine.\""
+  },
+  {
+   "file": "12_fizz.png",
+   "emojis": [
+    "😍",
+    "💞",
+    "🥰"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"Smitten!\""
+  },
+  {
+   "file": "13_pip.png",
+   "emojis": [
+    "☺️",
+    "💗",
+    "🥺"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"Like you\""
+  },
+  {
+   "file": "14_beam.png",
+   "emojis": [
+    "😘",
+    "💖",
+    "✨"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"XOXO\""
+  },
+  {
+   "file": "15_snug.png",
+   "emojis": [
+    "💑",
+    "❤️",
+    "🤝"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Better together\""
+  },
+  {
+   "file": "16_snug.png",
+   "emojis": [
+    "💝",
+    "🥳",
+    "❤️"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Happy Valentine's!\""
+  }
+ ]
+}

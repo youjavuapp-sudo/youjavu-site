@@ -1,0 +1,140 @@
+{
+ "id": "funny_reactions",
+ "title": "Ball Sort Moods: Funny Reactions",
+ "short_title": "Funny Reactions",
+ "order": 15,
+ "animated": false,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_dash.webp",
+   "emojis": [
+    "👀"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Seen.\""
+  },
+  {
+   "file": "02_glitz.webp",
+   "emojis": [
+    "💅",
+    "✨"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Iconic!\""
+  },
+  {
+   "file": "03_dozy.webp",
+   "emojis": [
+    "🙅",
+    "😴"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Not today\""
+  },
+  {
+   "file": "04_scamp.webp",
+   "emojis": [
+    "😑"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"Bruh\""
+  },
+  {
+   "file": "05_snug.webp",
+   "emojis": [
+    "💪",
+    "🤗"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"You got this\""
+  },
+  {
+   "file": "06_stump.webp",
+   "emojis": [
+    "😐"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"Mood.\""
+  },
+  {
+   "file": "07_wibble.webp",
+   "emojis": [
+    "😂"
+   ],
+   "accessibility_text": "Wibble, the giggly wobbler, from the Ball Sort Moods game: \"LOL\""
+  },
+  {
+   "file": "08_grumbo.webp",
+   "emojis": [
+    "🙂",
+    "😬"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"I'm fine\""
+  },
+  {
+   "file": "09_fizz.webp",
+   "emojis": [
+    "😱"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"OMG!\""
+  },
+  {
+   "file": "10_encore.webp",
+   "emojis": [
+    "🎭",
+    "😩"
+   ],
+   "accessibility_text": "The drama! The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "11_pip.webp",
+   "emojis": [
+    "👋",
+    "😳"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"Um... hi\""
+  },
+  {
+   "file": "12_beam.webp",
+   "emojis": [
+    "😍",
+    "👍"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"Love that!\""
+  },
+  {
+   "file": "13_peep.webp",
+   "emojis": [
+    "🤔",
+    "❓"
+   ],
+   "accessibility_text": "Peep, the curious one, from the Ball Sort Moods game: \"Wait, what?\""
+  },
+  {
+   "file": "14_quark.webp",
+   "emojis": [
+    "🧠",
+    "⏳"
+   ],
+   "accessibility_text": "Quark, strange and fun, from the Ball Sort Moods game: \"Brain loading\""
+  },
+  {
+   "file": "15_group.webp",
+   "emojis": [
+    "😐",
+    "🤝"
+   ],
+   "accessibility_text": "Stump and Grumbo: Same. The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "16_group.webp",
+   "emojis": [
+    "🤣"
+   ],
+   "accessibility_text": "Dash, Scamp and Fizz: Can't stop laughing. The Moods from the Ball Sort Moods game"
+  }
+ ],
+ "tray": "tray.png",
+ "publisher": "From the Ball Sort Moods game",
+ "publisher_email": "youjavu.app@gmail.com",
+ "publisher_website": "https://youjavu.com/ballsortmoods/",
+ "privacy_policy_website": "https://youjavu.com/ballsortmoods/privacy.html",
+ "license_agreement_website": "",
+ "android_play_store_link": "https://play.google.com/store/apps/details?id=app.ballsortmoods",
+ "ios_app_store_link": ""
+}

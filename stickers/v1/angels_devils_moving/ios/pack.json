@@ -1,0 +1,147 @@
+{
+ "id": "angels_devils_moving",
+ "title": "Ball Sort Moods: Angels and Devils (Moving)",
+ "short_title": "Angels and Devils (Moving)",
+ "order": 10,
+ "animated": true,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_pip.png",
+   "emojis": [
+    "😇",
+    "🥺"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"I'm innocent\""
+  },
+  {
+   "file": "02_scamp.png",
+   "emojis": [
+    "😈",
+    "😏"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"Oops, not sorry\""
+  },
+  {
+   "file": "03_snug.png",
+   "emojis": [
+    "😇",
+    "🤗"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Bless you\""
+  },
+  {
+   "file": "04_grumbo.png",
+   "emojis": [
+    "😈",
+    "😠"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"Grr.\""
+  },
+  {
+   "file": "05_dozy.png",
+   "emojis": [
+    "😴",
+    "☁️",
+    "😇"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Cloud nap\""
+  },
+  {
+   "file": "06_glitz.png",
+   "emojis": [
+    "😈",
+    "😎",
+    "🔥"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Wicked!\""
+  },
+  {
+   "file": "07_beam.png",
+   "emojis": [
+    "😇",
+    "🙏",
+    "😊"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"Thank you!\""
+  },
+  {
+   "file": "08_stump.png",
+   "emojis": [
+    "😈",
+    "🙅"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"No way.\""
+  },
+  {
+   "file": "09_fizz.png",
+   "emojis": [
+    "😇",
+    "✨",
+    "😍"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"Heavenly!\""
+  },
+  {
+   "file": "10_dash.png",
+   "emojis": [
+    "😈",
+    "💥",
+    "🏃"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Chaos time!\""
+  },
+  {
+   "file": "11_peep.png",
+   "emojis": [
+    "😇",
+    "🤞"
+   ],
+   "accessibility_text": "Peep, the curious one, from the Ball Sort Moods game: \"Promise!\""
+  },
+  {
+   "file": "12_quark.png",
+   "emojis": [
+    "🤔",
+    "😇",
+    "😈"
+   ],
+   "accessibility_text": "Quark, strange and fun, from the Ball Sort Moods game: \"Good or bad?\""
+  },
+  {
+   "file": "13_encore.png",
+   "emojis": [
+    "😈",
+    "🎤",
+    "🎉"
+   ],
+   "accessibility_text": "Encore, who loves an audience, from the Ball Sort Moods game: \"Ta-da!\""
+  },
+  {
+   "file": "14_wibble.png",
+   "emojis": [
+    "😇",
+    "😅"
+   ],
+   "accessibility_text": "Wibble, the giggly wobbler, from the Ball Sort Moods game: \"Oopsie\""
+  },
+  {
+   "file": "15_snug.png",
+   "emojis": [
+    "😇",
+    "😈",
+    "⚖️"
+   ],
+   "accessibility_text": "Snug and Scamp: Good vs bad. The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "16_pip.png",
+   "emojis": [
+    "😇",
+    "😈",
+    "🙃"
+   ],
+   "accessibility_text": "The whole gang being totally innocent. The Moods from the Ball Sort Moods game"
+  }
+ ]
+}

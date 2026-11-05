@@ -1,0 +1,146 @@
+{
+ "id": "new_year_moving",
+ "title": "Ball Sort Moods: New Year (Moving)",
+ "short_title": "New Year (Moving)",
+ "order": 46,
+ "animated": true,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_dash.webp",
+   "emojis": [
+    "🎆",
+    "🎉"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Happy New Year!\""
+  },
+  {
+   "file": "02_glitz.webp",
+   "emojis": [
+    "😎",
+    "✨"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"New year, new me\""
+  },
+  {
+   "file": "03_dozy.webp",
+   "emojis": [
+    "😴",
+    "🕛"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Wake me at midnight\""
+  },
+  {
+   "file": "04_scamp.webp",
+   "emojis": [
+    "😜",
+    "📝"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"Resolutions? Nah.\""
+  },
+  {
+   "file": "05_snug.webp",
+   "emojis": [
+    "🥂",
+    "😊"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Cheers to you!\""
+  },
+  {
+   "file": "06_stump.webp",
+   "emojis": [
+    "😐",
+    "🥳"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"Same me.\""
+  },
+  {
+   "file": "07_wibble.webp",
+   "emojis": [
+    "⏰",
+    "🤩"
+   ],
+   "accessibility_text": "Wibble, the giggly wobbler, from the Ball Sort Moods game: \"Countdown!\""
+  },
+  {
+   "file": "08_grumbo.webp",
+   "emojis": [
+    "😤",
+    "🎆"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"Too loud. Bye.\""
+  },
+  {
+   "file": "09_fizz.webp",
+   "emojis": [
+    "🎉",
+    "🤩"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"Pop pop pop!\""
+  },
+  {
+   "file": "10_encore.webp",
+   "emojis": [
+    "🥳",
+    "🎊"
+   ],
+   "accessibility_text": "Encore, who loves an audience, from the Ball Sort Moods game: \"Party time!\""
+  },
+  {
+   "file": "11_pip.webp",
+   "emojis": [
+    "🌟",
+    "😊"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"Best wishes\""
+  },
+  {
+   "file": "12_beam.webp",
+   "emojis": [
+    "✨",
+    "😃"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"Shine bright this year\""
+  },
+  {
+   "file": "13_peep.webp",
+   "emojis": [
+    "🕛",
+    "👀"
+   ],
+   "accessibility_text": "Peep, the curious one, from the Ball Sort Moods game: \"Did I miss midnight?\""
+  },
+  {
+   "file": "14_quark.webp",
+   "emojis": [
+    "⏳",
+    "🤓"
+   ],
+   "accessibility_text": "Quark, strange and fun, from the Ball Sort Moods game: \"New year loading...\""
+  },
+  {
+   "file": "15_group.webp",
+   "emojis": [
+    "🥂",
+    "🎉"
+   ],
+   "accessibility_text": "Cheers, everyone! The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "16_group.webp",
+   "emojis": [
+    "🕛",
+    "🎊"
+   ],
+   "accessibility_text": "10, 9, 8... The Moods from the Ball Sort Moods game"
+  }
+ ],
+ "tray": "tray.png",
+ "publisher": "From the Ball Sort Moods game",
+ "publisher_email": "youjavu.app@gmail.com",
+ "publisher_website": "https://youjavu.com/ballsortmoods/",
+ "privacy_policy_website": "https://youjavu.com/ballsortmoods/privacy.html",
+ "license_agreement_website": "",
+ "android_play_store_link": "https://play.google.com/store/apps/details?id=app.ballsortmoods",
+ "ios_app_store_link": ""
+}

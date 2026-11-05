@@ -1,0 +1,138 @@
+{
+ "id": "graduation",
+ "title": "Ball Sort Moods: Graduation",
+ "short_title": "Graduation",
+ "order": 47,
+ "animated": false,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_dash.png",
+   "emojis": [
+    "🎓",
+    "🎉"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"I graduated!\""
+  },
+  {
+   "file": "02_glitz.png",
+   "emojis": [
+    "🏅",
+    "😎"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Nailed it!\""
+  },
+  {
+   "file": "03_dozy.png",
+   "emojis": [
+    "😴",
+    "📚"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Can I sleep now?\""
+  },
+  {
+   "file": "04_scamp.png",
+   "emojis": [
+    "😜",
+    "📚"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"Never studying again!\""
+  },
+  {
+   "file": "05_snug.png",
+   "emojis": [
+    "🥰",
+    "💖"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"So proud of you!\""
+  },
+  {
+   "file": "06_stump.png",
+   "emojis": [
+    "😐",
+    "📜"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"Finally.\""
+  },
+  {
+   "file": "07_wibble.png",
+   "emojis": [
+    "🥹",
+    "🎓"
+   ],
+   "accessibility_text": "Wibble, the giggly wobbler, from the Ball Sort Moods game: \"I did it!\""
+  },
+  {
+   "file": "08_grumbo.png",
+   "emojis": [
+    "😤",
+    "📝"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"So many exams.\""
+  },
+  {
+   "file": "09_fizz.png",
+   "emojis": [
+    "🎓",
+    "🤩"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"Caps in the air!\""
+  },
+  {
+   "file": "10_encore.png",
+   "emojis": [
+    "🌟",
+    "🎭"
+   ],
+   "accessibility_text": "Encore, who loves an audience, from the Ball Sort Moods game: \"Class act!\""
+  },
+  {
+   "file": "11_pip.png",
+   "emojis": [
+    "🌟",
+    "😊"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"Congrats!\""
+  },
+  {
+   "file": "12_beam.png",
+   "emojis": [
+    "☀️",
+    "😃"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"Bright future ahead!\""
+  },
+  {
+   "file": "13_peep.png",
+   "emojis": [
+    "🪧",
+    "👀"
+   ],
+   "accessibility_text": "Peep, the curious one, from the Ball Sort Moods game: \"What's next?\""
+  },
+  {
+   "file": "14_quark.png",
+   "emojis": [
+    "🧠",
+    "💯"
+   ],
+   "accessibility_text": "Knowledge: 100%. The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "15_group.png",
+   "emojis": [
+    "🎓",
+    "🎊"
+   ],
+   "accessibility_text": "Congrats, Grad! The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "16_group.png",
+   "emojis": [
+    "🎓",
+    "❤️"
+   ],
+   "accessibility_text": "Class of the best. The Moods from the Ball Sort Moods game"
+  }
+ ]
+}

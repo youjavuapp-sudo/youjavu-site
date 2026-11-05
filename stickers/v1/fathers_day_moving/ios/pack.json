@@ -1,0 +1,138 @@
+{
+ "id": "fathers_day_moving",
+ "title": "Ball Sort Moods: Father's Day (Moving)",
+ "short_title": "Father's Day (Moving)",
+ "order": 44,
+ "animated": true,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_dash.png",
+   "emojis": [
+    "👔",
+    "🎉"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Happy Father's Day!\""
+  },
+  {
+   "file": "02_glitz.png",
+   "emojis": [
+    "🏆",
+    "😎"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Best Dad ever!\""
+  },
+  {
+   "file": "03_dozy.png",
+   "emojis": [
+    "😴",
+    "🛋️"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Dad nap time\""
+  },
+  {
+   "file": "04_scamp.png",
+   "emojis": [
+    "🥁",
+    "😜"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"Dad joke incoming!\""
+  },
+  {
+   "file": "05_snug.png",
+   "emojis": [
+    "🥰",
+    "💙"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Love you, Dad\""
+  },
+  {
+   "file": "06_stump.png",
+   "emojis": [
+    "☕",
+    "😐"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"Ask your mum.\""
+  },
+  {
+   "file": "07_wibble.png",
+   "emojis": [
+    "🥹",
+    "🎁"
+   ],
+   "accessibility_text": "Wibble, the giggly wobbler, from the Ball Sort Moods game: \"Thanks for everything\""
+  },
+  {
+   "file": "08_grumbo.png",
+   "emojis": [
+    "📺",
+    "😠"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"Who touched my remote?\""
+  },
+  {
+   "file": "09_fizz.png",
+   "emojis": [
+    "🍖",
+    "🤩"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"BBQ time!\""
+  },
+  {
+   "file": "10_encore.png",
+   "emojis": [
+    "🏆",
+    "🎉"
+   ],
+   "accessibility_text": "Encore, who loves an audience, from the Ball Sort Moods game: \"Dad of the year\""
+  },
+  {
+   "file": "11_pip.png",
+   "emojis": [
+    "🤗",
+    "💙"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"Hugs for Dad\""
+  },
+  {
+   "file": "12_beam.png",
+   "emojis": [
+    "🦸",
+    "😊"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"My hero!\""
+  },
+  {
+   "file": "13_peep.png",
+   "emojis": [
+    "🚗",
+    "👀"
+   ],
+   "accessibility_text": "Peep, the curious one, from the Ball Sort Moods game: \"Can I borrow the car?\""
+  },
+  {
+   "file": "14_quark.png",
+   "emojis": [
+    "🔧",
+    "🤔"
+   ],
+   "accessibility_text": "Quark, strange and fun, from the Ball Sort Moods game: \"Fixing it...\""
+  },
+  {
+   "file": "15_group.png",
+   "emojis": [
+    "👔",
+    "❤️"
+   ],
+   "accessibility_text": "We love you, Dad! The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "16_group.png",
+   "emojis": [
+    "🍖",
+    "🎉"
+   ],
+   "accessibility_text": "Happy Dad's Day. The Moods from the Ball Sort Moods game"
+  }
+ ]
+}

@@ -46,6 +46,7 @@ nav.links a:hover { color: var(--ink); }
 .card p { margin: 0; color: var(--soft); }
 .tag { display: inline-block; font-size: .8rem; font-weight: 800; padding: 3px 10px; border-radius: 999px; background: #fff3d6; color: #8a5a00; }
 .tag.dev { background: #e7f0ff; color: #2a55a8; }
+.tag.live { background: #dff6e4; color: #1d7a3a; }
 .dishes { position: absolute; inset: auto 0 10px 0; display: flex; justify-content: center; gap: 4px; }
 .dishes img { width: 22%; max-width: 96px; filter: drop-shadow(0 6px 8px rgba(0,0,0,.18)); }
 

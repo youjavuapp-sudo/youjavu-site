@@ -1,0 +1,146 @@
+{
+ "id": "food_snacks_moving",
+ "title": "Ball Sort Moods: Food and Snacks (Moving)",
+ "short_title": "Food and Snacks (Moving)",
+ "order": 20,
+ "animated": true,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_dash.webp",
+   "emojis": [
+    "😋",
+    "🍕"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Hungry!\""
+  },
+  {
+   "file": "02_glitz.webp",
+   "emojis": [
+    "🧁",
+    "✨"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Fancy a treat?\""
+  },
+  {
+   "file": "03_dozy.webp",
+   "emojis": [
+    "☕",
+    "😴"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Coffee first\""
+  },
+  {
+   "file": "04_scamp.webp",
+   "emojis": [
+    "🍪",
+    "😈"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"Just one bite\""
+  },
+  {
+   "file": "05_snug.webp",
+   "emojis": [
+    "🍲",
+    "❤️"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Made with love\""
+  },
+  {
+   "file": "06_stump.webp",
+   "emojis": [
+    "🍟",
+    "😤"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"Mine.\""
+  },
+  {
+   "file": "07_wibble.webp",
+   "emojis": [
+    "🍮",
+    "😄"
+   ],
+   "accessibility_text": "Wibble, the giggly wobbler, from the Ball Sort Moods game: \"Wobble dessert\""
+  },
+  {
+   "file": "08_grumbo.webp",
+   "emojis": [
+    "🍔",
+    "😠"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"Feed me.\""
+  },
+  {
+   "file": "09_fizz.webp",
+   "emojis": [
+    "🍭",
+    "😍"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"Sweet!\""
+  },
+  {
+   "file": "10_encore.webp",
+   "emojis": [
+    "👨‍🍳",
+    "😘"
+   ],
+   "accessibility_text": "Encore, who loves an audience, from the Ball Sort Moods game: \"Chef's kiss\""
+  },
+  {
+   "file": "11_pip.webp",
+   "emojis": [
+    "🍩",
+    "🙏"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"One, please?\""
+  },
+  {
+   "file": "12_beam.webp",
+   "emojis": [
+    "🥗",
+    "🌟"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"Fresh start\""
+  },
+  {
+   "file": "13_peep.webp",
+   "emojis": [
+    "👃",
+    "😋"
+   ],
+   "accessibility_text": "Peep, the curious one, from the Ball Sort Moods game: \"Smells good\""
+  },
+  {
+   "file": "14_quark.webp",
+   "emojis": [
+    "🤖",
+    "🍿"
+   ],
+   "accessibility_text": "Quark, strange and fun, from the Ball Sort Moods game: \"Snack logic\""
+  },
+  {
+   "file": "15_group.webp",
+   "emojis": [
+    "🍿",
+    "😋"
+   ],
+   "accessibility_text": "Dash, Dozy and Snug: Snack squad. The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "16_group.webp",
+   "emojis": [
+    "🍰",
+    "😅"
+   ],
+   "accessibility_text": "Scamp, Glitz and Wibble: Diet starts Monday. The Moods from the Ball Sort Moods game"
+  }
+ ],
+ "tray": "tray.png",
+ "publisher": "From the Ball Sort Moods game",
+ "publisher_email": "youjavu.app@gmail.com",
+ "publisher_website": "https://youjavu.com/ballsortmoods/",
+ "privacy_policy_website": "https://youjavu.com/ballsortmoods/privacy.html",
+ "license_agreement_website": "",
+ "android_play_store_link": "https://play.google.com/store/apps/details?id=app.ballsortmoods",
+ "ios_app_store_link": ""
+}

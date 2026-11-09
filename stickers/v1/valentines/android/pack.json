@@ -1,0 +1,159 @@
+{
+ "id": "valentines",
+ "title": "Ball Sort Moods: Valentine's",
+ "short_title": "Valentine's",
+ "order": 7,
+ "animated": false,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_snug.webp",
+   "emojis": [
+    "💘",
+    "🥺",
+    "❤️"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Be mine?\""
+  },
+  {
+   "file": "02_snug.webp",
+   "emojis": [
+    "❤️",
+    "😍",
+    "🥰"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Love you!\""
+  },
+  {
+   "file": "03_snug.webp",
+   "emojis": [
+    "🤗",
+    "💕"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Hugs!\""
+  },
+  {
+   "file": "04_snug.webp",
+   "emojis": [
+    "😘",
+    "💋"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Mwah!\""
+  },
+  {
+   "file": "05_snug.webp",
+   "emojis": [
+    "🎁",
+    "💝",
+    "❤️"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"For you\""
+  },
+  {
+   "file": "06_dash.webp",
+   "emojis": [
+    "🏃",
+    "🌹",
+    "💨"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Rushing to you!\""
+  },
+  {
+   "file": "07_glitz.webp",
+   "emojis": [
+    "👑",
+    "💖",
+    "😎"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Lucky you!\""
+  },
+  {
+   "file": "08_dozy.webp",
+   "emojis": [
+    "😴",
+    "💤",
+    "💕"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Dream of you\""
+  },
+  {
+   "file": "09_scamp.webp",
+   "emojis": [
+    "💘",
+    "😈",
+    "🏹"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"Gotcha!\""
+  },
+  {
+   "file": "10_grumbo.webp",
+   "emojis": [
+    "😒",
+    "🌹",
+    "❤️"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"Fine. Love you.\""
+  },
+  {
+   "file": "11_stump.webp",
+   "emojis": [
+    "🍫",
+    "😤"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"Mine.\""
+  },
+  {
+   "file": "12_fizz.webp",
+   "emojis": [
+    "😍",
+    "💞",
+    "🥰"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"Smitten!\""
+  },
+  {
+   "file": "13_pip.webp",
+   "emojis": [
+    "☺️",
+    "💗",
+    "🥺"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"Like you\""
+  },
+  {
+   "file": "14_beam.webp",
+   "emojis": [
+    "😘",
+    "💖",
+    "✨"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"XOXO\""
+  },
+  {
+   "file": "15_snug.webp",
+   "emojis": [
+    "💑",
+    "❤️",
+    "🤝"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Better together\""
+  },
+  {
+   "file": "16_snug.webp",
+   "emojis": [
+    "💝",
+    "🥳",
+    "❤️"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Happy Valentine's!\""
+  }
+ ],
+ "tray": "tray.png",
+ "publisher": "From the Ball Sort Moods game",
+ "publisher_email": "youjavu.app@gmail.com",
+ "publisher_website": "https://youjavu.com/ballsortmoods/",
+ "privacy_policy_website": "https://youjavu.com/ballsortmoods/privacy.html",
+ "license_agreement_website": "",
+ "android_play_store_link": "https://play.google.com/store/apps/details?id=app.ballsortmoods",
+ "ios_app_store_link": ""
+}

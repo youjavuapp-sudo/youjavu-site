@@ -1,0 +1,144 @@
+{
+ "id": "sassy_roasts",
+ "title": "Ball Sort Moods: Sassy Roasts",
+ "short_title": "Sassy Roasts",
+ "order": 29,
+ "animated": false,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_dash.webp",
+   "emojis": [
+    "🏃",
+    "😏"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Keep up!\""
+  },
+  {
+   "file": "02_glitz.webp",
+   "emojis": [
+    "😎",
+    "💅"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Cute. Wrong.\""
+  },
+  {
+   "file": "03_dozy.webp",
+   "emojis": [
+    "😴",
+    "🙄"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Wake me when you're right\""
+  },
+  {
+   "file": "04_scamp.webp",
+   "emojis": [
+    "🤷",
+    "😏"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"Who asked?\""
+  },
+  {
+   "file": "05_snug.webp",
+   "emojis": [
+    "🙂",
+    "💖"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Bless your heart\""
+  },
+  {
+   "file": "06_stump.webp",
+   "emojis": [
+    "😤"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"I'm not arguing. I'm right.\""
+  },
+  {
+   "file": "07_wibble.webp",
+   "emojis": [
+    "😬"
+   ],
+   "accessibility_text": "Wibble, the giggly wobbler, from the Ball Sort Moods game: \"Well, that's awkward\""
+  },
+  {
+   "file": "08_grumbo.webp",
+   "emojis": [
+    "🙅",
+    "😠"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"No. Just no.\""
+  },
+  {
+   "file": "09_fizz.webp",
+   "emojis": [
+    "🎯",
+    "😆"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"Called it!\""
+  },
+  {
+   "file": "10_encore.webp",
+   "emojis": [
+    "🎤",
+    "🎭"
+   ],
+   "accessibility_text": "Encore, who loves an audience, from the Ball Sort Moods game: \"Drama? Me?\""
+  },
+  {
+   "file": "11_pip.webp",
+   "emojis": [
+    "🙏",
+    "🙅"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"Respectfully, no.\""
+  },
+  {
+   "file": "12_beam.webp",
+   "emojis": [
+    "😊",
+    "💅"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"Love that for you\""
+  },
+  {
+   "file": "13_peep.webp",
+   "emojis": [
+    "😳",
+    "🍿"
+   ],
+   "accessibility_text": "Peep, the curious one, from the Ball Sort Moods game: \"Excuse me?!\""
+  },
+  {
+   "file": "14_quark.webp",
+   "emojis": [
+    "🤖",
+    "❓"
+   ],
+   "accessibility_text": "Quark, strange and fun, from the Ball Sort Moods game: \"Does not compute\""
+  },
+  {
+   "file": "15_group.webp",
+   "emojis": [
+    "🔥",
+    "🎤"
+   ],
+   "accessibility_text": "Roast mode ON. The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "16_group.webp",
+   "emojis": [
+    "😏",
+    "🔥"
+   ],
+   "accessibility_text": "Sorry, not sorry. The Moods from the Ball Sort Moods game"
+  }
+ ],
+ "tray": "tray.png",
+ "publisher": "From the Ball Sort Moods game",
+ "publisher_email": "youjavu.app@gmail.com",
+ "publisher_website": "https://youjavu.com/ballsortmoods/",
+ "privacy_policy_website": "https://youjavu.com/ballsortmoods/privacy.html",
+ "license_agreement_website": "",
+ "android_play_store_link": "https://play.google.com/store/apps/details?id=app.ballsortmoods",
+ "ios_app_store_link": ""
+}

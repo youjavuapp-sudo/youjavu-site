@@ -1,0 +1,154 @@
+{
+ "id": "christmas_moving",
+ "title": "Ball Sort Moods: Christmas (Moving)",
+ "short_title": "Christmas (Moving)",
+ "order": 6,
+ "animated": true,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_dash_ho_ho_go.png",
+   "emojis": [
+    "🎅",
+    "🏃",
+    "😄"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Ho ho go!\""
+  },
+  {
+   "file": "02_glitz_sparkle.png",
+   "emojis": [
+    "✨",
+    "👑",
+    "😎"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Sparkle!\""
+  },
+  {
+   "file": "03_snug_for_you.png",
+   "emojis": [
+    "🎁",
+    "🤗",
+    "❤️"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"For you!\""
+  },
+  {
+   "file": "04_dozy_zzz_mas.png",
+   "emojis": [
+    "😴",
+    "🧦",
+    "💤"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Zzz-mas\""
+  },
+  {
+   "file": "05_stump_too_cold.png",
+   "emojis": [
+    "🥶",
+    "❄️",
+    "😤"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"Too cold.\""
+  },
+  {
+   "file": "06_grumbo_fine_merry.png",
+   "emojis": [
+    "😒",
+    "🦌",
+    "🎄"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"Fine. Merry.\""
+  },
+  {
+   "file": "07_scamp_shh.png",
+   "emojis": [
+    "🤫",
+    "🍪",
+    "😈"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"Shh!\""
+  },
+  {
+   "file": "08_fizz_surprise.png",
+   "emojis": [
+    "🎁",
+    "😲",
+    "🎉"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"Surprise!\""
+  },
+  {
+   "file": "09_wibble_whoops.png",
+   "emojis": [
+    "😅",
+    "⛸️",
+    "❄️"
+   ],
+   "accessibility_text": "Wibble, the giggly wobbler, from the Ball Sort Moods game: \"Whoops!\""
+  },
+  {
+   "file": "10_encore_fa_la_la.png",
+   "emojis": [
+    "🎶",
+    "🎤",
+    "🎄"
+   ],
+   "accessibility_text": "Encore, who loves an audience, from the Ball Sort Moods game: \"Fa la la!\""
+  },
+  {
+   "file": "11_pip_brrr.png",
+   "emojis": [
+    "⛄",
+    "🥶",
+    "❄️"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"Brrr!\""
+  },
+  {
+   "file": "12_beam_joy.png",
+   "emojis": [
+    "💡",
+    "😊",
+    "🌟"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"Joy!\""
+  },
+  {
+   "file": "13_peep_whats_this.png",
+   "emojis": [
+    "🎁",
+    "🤔",
+    "👀"
+   ],
+   "accessibility_text": "Peep, the curious one, from the Ball Sort Moods game: \"What's this?\""
+  },
+  {
+   "file": "14_quark_blink.png",
+   "emojis": [
+    "✨",
+    "😵",
+    "🎄"
+   ],
+   "accessibility_text": "Quark, strange and fun, from the Ball Sort Moods game: \"Blink blink\""
+  },
+  {
+   "file": "15_group_christmas.png",
+   "emojis": [
+    "🎄",
+    "🎅",
+    "🥳"
+   ],
+   "accessibility_text": "The whole gang as Christmas tree baubles: Merry Christmas! The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "16_group_new_year.png",
+   "emojis": [
+    "🎆",
+    "🥳",
+    "🎢"
+   ],
+   "accessibility_text": "The whole gang rides the roller coaster into the New Year. The Moods from the Ball Sort Moods game"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "id": "birthday_party_moving",
+ "title": "Ball Sort Moods: Birthday Party (Moving)",
+ "short_title": "Birthday Party (Moving)",
+ "order": 18,
+ "animated": true,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_dash.png",
+   "emojis": [
+    "🥳",
+    "🎉"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Party time!\""
+  },
+  {
+   "file": "02_glitz.png",
+   "emojis": [
+    "⭐",
+    "👑"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Birthday star\""
+  },
+  {
+   "file": "03_dozy.png",
+   "emojis": [
+    "😴",
+    "🎈"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Party nap\""
+  },
+  {
+   "file": "04_scamp.png",
+   "emojis": [
+    "🍰",
+    "😈"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"Cake thief\""
+  },
+  {
+   "file": "05_snug.png",
+   "emojis": [
+    "🎁",
+    "❤️"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"For you!\""
+  },
+  {
+   "file": "06_stump.png",
+   "emojis": [
+    "😤",
+    "🎂"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"Still not singing\""
+  },
+  {
+   "file": "07_wibble.png",
+   "emojis": [
+    "🎉",
+    "😄"
+   ],
+   "accessibility_text": "Wibble, the giggly wobbler, from the Ball Sort Moods game: \"Woohoo!\""
+  },
+  {
+   "file": "08_grumbo.png",
+   "emojis": [
+    "🎂",
+    "😒"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"Fine. Happy birthday.\""
+  },
+  {
+   "file": "09_fizz.png",
+   "emojis": [
+    "🎁",
+    "😲"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"Surprise!\""
+  },
+  {
+   "file": "10_encore.png",
+   "emojis": [
+    "👏",
+    "🎉"
+   ],
+   "accessibility_text": "Encore, who loves an audience, from the Ball Sort Moods game: \"Encore!\""
+  },
+  {
+   "file": "11_pip.png",
+   "emojis": [
+    "🕯️",
+    "✨"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"Make a wish\""
+  },
+  {
+   "file": "12_beam.png",
+   "emojis": [
+    "✨",
+    "🌟"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"Shine bright!\""
+  },
+  {
+   "file": "13_peep.png",
+   "emojis": [
+    "🎁",
+    "🤔"
+   ],
+   "accessibility_text": "Peep, the curious one, from the Ball Sort Moods game: \"What's inside?\""
+  },
+  {
+   "file": "14_quark.png",
+   "emojis": [
+    "🤖",
+    "🎉"
+   ],
+   "accessibility_text": "Quark, strange and fun, from the Ball Sort Moods game: \"Party mode\""
+  },
+  {
+   "file": "15_group.png",
+   "emojis": [
+    "🎂",
+    "🥳"
+   ],
+   "accessibility_text": "Snug, Dash, Glitz and Dozy: Happy Birthday! The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "16_group.png",
+   "emojis": [
+    "🎊",
+    "🥳"
+   ],
+   "accessibility_text": "Fizz, Wibble and Beam: Celebrate! The Moods from the Ball Sort Moods game"
+  }
+ ]
+}

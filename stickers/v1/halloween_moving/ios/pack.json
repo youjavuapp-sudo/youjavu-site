@@ -1,0 +1,150 @@
+{
+ "id": "halloween_moving",
+ "title": "Ball Sort Moods: Halloween (Moving)",
+ "short_title": "Halloween (Moving)",
+ "order": 14,
+ "animated": true,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_dash.png",
+   "emojis": [
+    "🎃",
+    "💨",
+    "👻"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Boo-zoom!\""
+  },
+  {
+   "file": "02_glitz.png",
+   "emojis": [
+    "🧛",
+    "😎",
+    "🦇"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Fang-tastic!\""
+  },
+  {
+   "file": "03_dozy.png",
+   "emojis": [
+    "👻",
+    "😴",
+    "💤"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Boo... zzz\""
+  },
+  {
+   "file": "04_scamp.png",
+   "emojis": [
+    "🧙",
+    "🍬",
+    "😈"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"Gimme candy!\""
+  },
+  {
+   "file": "05_snug.png",
+   "emojis": [
+    "🎃",
+    "🤗",
+    "🥰"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Boo-tiful\""
+  },
+  {
+   "file": "06_stump.png",
+   "emojis": [
+    "🧟",
+    "😤"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"Leave me.\""
+  },
+  {
+   "file": "07_grumbo.png",
+   "emojis": [
+    "🦇",
+    "😒"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"Bah. Boo.\""
+  },
+  {
+   "file": "08_fizz.png",
+   "emojis": [
+    "🧪",
+    "🫧",
+    "😆"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"Bubble bubble!\""
+  },
+  {
+   "file": "09_wibble.png",
+   "emojis": [
+    "😱",
+    "👻"
+   ],
+   "accessibility_text": "Wibble, the giggly wobbler, from the Ball Sort Moods game: \"Eek!\""
+  },
+  {
+   "file": "10_encore.png",
+   "emojis": [
+    "🧛",
+    "😈",
+    "🎤"
+   ],
+   "accessibility_text": "Encore, who loves an audience, from the Ball Sort Moods game: \"Muahaha!\""
+  },
+  {
+   "file": "11_pip.png",
+   "emojis": [
+    "👻",
+    "🥺"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"Boo?\""
+  },
+  {
+   "file": "12_beam.png",
+   "emojis": [
+    "🧙",
+    "✨",
+    "🎃"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"Spooky!\""
+  },
+  {
+   "file": "13_peep.png",
+   "emojis": [
+    "🍬",
+    "👀",
+    "🎃"
+   ],
+   "accessibility_text": "Peep, the curious one, from the Ball Sort Moods game: \"Candy?\""
+  },
+  {
+   "file": "14_quark.png",
+   "emojis": [
+    "🧟",
+    "⚡",
+    "🤖"
+   ],
+   "accessibility_text": "Quark, strange and fun, from the Ball Sort Moods game: \"It's alive!\""
+  },
+  {
+   "file": "15_dash.png",
+   "emojis": [
+    "🎃",
+    "🍬",
+    "👻"
+   ],
+   "accessibility_text": "The whole gang: Trick or treat! The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "16_dash.png",
+   "emojis": [
+    "🎃",
+    "🦇",
+    "🥳"
+   ],
+   "accessibility_text": "The whole gang: Happy Halloween! The Moods from the Ball Sort Moods game"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "id": "work_school",
+ "title": "Ball Sort Moods: Work and School",
+ "short_title": "Work and School",
+ "order": 23,
+ "animated": false,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_dash.png",
+   "emojis": [
+    "⏰",
+    "😱"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Deadline!\""
+  },
+  {
+   "file": "02_glitz.png",
+   "emojis": [
+    "😎",
+    "✅"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Nailed it!\""
+  },
+  {
+   "file": "03_dozy.png",
+   "emojis": [
+    "😴",
+    "⏰"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Five more minutes\""
+  },
+  {
+   "file": "04_scamp.png",
+   "emojis": [
+    "☕",
+    "😌"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"On a break\""
+  },
+  {
+   "file": "05_snug.png",
+   "emojis": [
+    "💪",
+    "❤️"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"You've got this\""
+  },
+  {
+   "file": "06_stump.png",
+   "emojis": [
+    "🙅",
+    "📅"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"No more meetings\""
+  },
+  {
+   "file": "07_wibble.png",
+   "emojis": [
+    "😵‍💫"
+   ],
+   "accessibility_text": "Wibble, the giggly wobbler, from the Ball Sort Moods game: \"Barely coping\""
+  },
+  {
+   "file": "08_grumbo.png",
+   "emojis": [
+    "😒",
+    "📅"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"Monday again\""
+  },
+  {
+   "file": "09_fizz.png",
+   "emojis": [
+    "🎉",
+    "🥳"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"Weekend!\""
+  },
+  {
+   "file": "10_encore.png",
+   "emojis": [
+    "📊",
+    "😎"
+   ],
+   "accessibility_text": "Encore, who loves an audience, from the Ball Sort Moods game: \"My presentation\""
+  },
+  {
+   "file": "11_pip.png",
+   "emojis": [
+    "🙂",
+    "📚"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"Trying my best\""
+  },
+  {
+   "file": "12_beam.png",
+   "emojis": [
+    "👍",
+    "⭐"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"Good job!\""
+  },
+  {
+   "file": "13_peep.png",
+   "emojis": [
+    "🙋",
+    "❓"
+   ],
+   "accessibility_text": "Peep, the curious one, from the Ball Sort Moods game: \"Quick question\""
+  },
+  {
+   "file": "14_quark.png",
+   "emojis": [
+    "🤖",
+    "🔄"
+   ],
+   "accessibility_text": "Quark, strange and fun, from the Ball Sort Moods game: \"System reboot\""
+  },
+  {
+   "file": "15_group.png",
+   "emojis": [
+    "🤝",
+    "💪"
+   ],
+   "accessibility_text": "Dash, Pip and Beam: Teamwork! The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "16_group.png",
+   "emojis": [
+    "😮‍💨",
+    "🎉"
+   ],
+   "accessibility_text": "Dozy, Stump and Grumbo: Meeting survived. The Moods from the Ball Sort Moods game"
+  }
+ ]
+}

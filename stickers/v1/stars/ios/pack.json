@@ -1,0 +1,133 @@
+{
+ "id": "stars",
+ "title": "Ball Sort Moods: Stars",
+ "short_title": "Stars",
+ "order": 1,
+ "animated": false,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_dash_hi.png",
+   "emojis": [
+    "👋",
+    "😄"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Eyy!\""
+  },
+  {
+   "file": "02_dash_on_it.png",
+   "emojis": [
+    "🏃",
+    "💪"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"On it!\""
+  },
+  {
+   "file": "03_dash_angry.png",
+   "emojis": [
+    "😠"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Grr!\""
+  },
+  {
+   "file": "04_dash_wow.png",
+   "emojis": [
+    "😮",
+    "🤩"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"WOW!\""
+  },
+  {
+   "file": "05_glitz_lol.png",
+   "emojis": [
+    "😂"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"LOL\""
+  },
+  {
+   "file": "06_glitz_yay.png",
+   "emojis": [
+    "🥳",
+    "🎉"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Woohoo!\""
+  },
+  {
+   "file": "07_glitz_annoyed.png",
+   "emojis": [
+    "😤"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Hmph.\""
+  },
+  {
+   "file": "08_glitz_proud.png",
+   "emojis": [
+    "😎",
+    "👌"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Nailed it\""
+  },
+  {
+   "file": "09_snug_love.png",
+   "emojis": [
+    "❤️",
+    "🥰"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Love you\""
+  },
+  {
+   "file": "10_snug_thanks.png",
+   "emojis": [
+    "🙏",
+    "😊"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Thank you\""
+  },
+  {
+   "file": "11_snug_sorry.png",
+   "emojis": [
+    "😔",
+    "🙏"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Sorry\""
+  },
+  {
+   "file": "12_snug_hugs.png",
+   "emojis": [
+    "🤗"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"Hugs\""
+  },
+  {
+   "file": "13_dozy_goodnight.png",
+   "emojis": [
+    "🌙",
+    "😴"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Good night\""
+  },
+  {
+   "file": "14_dozy_sleepy.png",
+   "emojis": [
+    "😴",
+    "💤"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Sleepy\""
+  },
+  {
+   "file": "15_dozy_ok.png",
+   "emojis": [
+    "👌"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"K.\""
+  },
+  {
+   "file": "16_dozy_not_now.png",
+   "emojis": [
+    "😴",
+    "⏰"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"5 more mins\""
+  }
+ ]
+}

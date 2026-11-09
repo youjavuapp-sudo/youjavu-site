@@ -1,0 +1,146 @@
+{
+ "id": "birthday_party",
+ "title": "Ball Sort Moods: Birthday Party",
+ "short_title": "Birthday Party",
+ "order": 17,
+ "animated": false,
+ "image_data_version": "1",
+ "stickers": [
+  {
+   "file": "01_dash.webp",
+   "emojis": [
+    "🥳",
+    "🎉"
+   ],
+   "accessibility_text": "Dash, the speedy athlete, from the Ball Sort Moods game: \"Party time!\""
+  },
+  {
+   "file": "02_glitz.webp",
+   "emojis": [
+    "⭐",
+    "👑"
+   ],
+   "accessibility_text": "Glitz, the show-off, from the Ball Sort Moods game: \"Birthday star\""
+  },
+  {
+   "file": "03_dozy.webp",
+   "emojis": [
+    "😴",
+    "🎈"
+   ],
+   "accessibility_text": "Dozy, always sleepy, from the Ball Sort Moods game: \"Party nap\""
+  },
+  {
+   "file": "04_scamp.webp",
+   "emojis": [
+    "🍰",
+    "😈"
+   ],
+   "accessibility_text": "Scamp, the mischief maker, from the Ball Sort Moods game: \"Cake thief\""
+  },
+  {
+   "file": "05_snug.webp",
+   "emojis": [
+    "🎁",
+    "❤️"
+   ],
+   "accessibility_text": "Snug, the cuddly one, from the Ball Sort Moods game: \"For you!\""
+  },
+  {
+   "file": "06_stump.webp",
+   "emojis": [
+    "😤",
+    "🎂"
+   ],
+   "accessibility_text": "Stump, the stubborn one, from the Ball Sort Moods game: \"Still not singing\""
+  },
+  {
+   "file": "07_wibble.webp",
+   "emojis": [
+    "🎉",
+    "😄"
+   ],
+   "accessibility_text": "Wibble, the giggly wobbler, from the Ball Sort Moods game: \"Woohoo!\""
+  },
+  {
+   "file": "08_grumbo.webp",
+   "emojis": [
+    "🎂",
+    "😒"
+   ],
+   "accessibility_text": "Grumbo, grumpy but soft inside, from the Ball Sort Moods game: \"Fine. Happy birthday.\""
+  },
+  {
+   "file": "09_fizz.webp",
+   "emojis": [
+    "🎁",
+    "😲"
+   ],
+   "accessibility_text": "Fizz, the bubbly one, from the Ball Sort Moods game: \"Surprise!\""
+  },
+  {
+   "file": "10_encore.webp",
+   "emojis": [
+    "👏",
+    "🎉"
+   ],
+   "accessibility_text": "Encore, who loves an audience, from the Ball Sort Moods game: \"Encore!\""
+  },
+  {
+   "file": "11_pip.webp",
+   "emojis": [
+    "🕯️",
+    "✨"
+   ],
+   "accessibility_text": "Pip, small and polite, from the Ball Sort Moods game: \"Make a wish\""
+  },
+  {
+   "file": "12_beam.webp",
+   "emojis": [
+    "✨",
+    "🌟"
+   ],
+   "accessibility_text": "Beam, the bright one, from the Ball Sort Moods game: \"Shine bright!\""
+  },
+  {
+   "file": "13_peep.webp",
+   "emojis": [
+    "🎁",
+    "🤔"
+   ],
+   "accessibility_text": "Peep, the curious one, from the Ball Sort Moods game: \"What's inside?\""
+  },
+  {
+   "file": "14_quark.webp",
+   "emojis": [
+    "🤖",
+    "🎉"
+   ],
+   "accessibility_text": "Quark, strange and fun, from the Ball Sort Moods game: \"Party mode\""
+  },
+  {
+   "file": "15_group.webp",
+   "emojis": [
+    "🎂",
+    "🥳"
+   ],
+   "accessibility_text": "Snug, Dash, Glitz and Dozy: Happy Birthday! The Moods from the Ball Sort Moods game"
+  },
+  {
+   "file": "16_group.webp",
+   "emojis": [
+    "🎊",
+    "🥳"
+   ],
+   "accessibility_text": "Fizz, Wibble and Beam: Celebrate! The Moods from the Ball Sort Moods game"
+  }
+ ],
+ "tray": "tray.png",
+ "publisher": "From the Ball Sort Moods game",
+ "publisher_email": "youjavu.app@gmail.com",
+ "publisher_website": "https://youjavu.com/ballsortmoods/",
+ "privacy_policy_website": "https://youjavu.com/ballsortmoods/privacy.html",
+ "license_agreement_website": "",
+ "android_play_store_link": "https://play.google.com/store/apps/details?id=app.ballsortmoods",
+ "ios_app_store_link": ""
+}

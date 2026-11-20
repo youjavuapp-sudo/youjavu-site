@@ -4,77 +4,153 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>YouJavu Studio</title>
-<meta name="description" content="YouJavu Studio makes cosy games and apps for phones: Ball Sort Moods, Tile Café Trip and YouJavu.">
+<meta name="description" content="YouJavu Studio makes cosy games for phones: Ball Sort Moods, Tile Café Trip and Moods Smash.">
+<meta name="theme-color" content="#1c1450">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800;900&family=Baloo+2:wght@700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css">
-<link rel="icon" href="/img/ballsort-icon.webp">
+<link rel="stylesheet" href="/home.css">
+<link rel="icon" href="/img/ballsort-icon.jpg">
 </head>
-<body>
-<header class="top"><div class="wrap">
-  <a class="brand" href="/">You<span>Javu</span></a>
-  <nav class="links"><a href="/#games">Games</a><a href="/support.html">Support</a></nav>
-</div></header>
+<body class="home">
 
-<main class="wrap">
-  <section class="hero">
+<section class="hero">
+  <div class="stars" aria-hidden="true"></div>
+  <header class="top"><div class="wrap">
+    <a class="brand" href="/">You<span>Javu</span></a>
+    <nav class="links"><a href="#games">Games</a><a href="/support.html">Support</a></nav>
+  </div></header>
+
+  <div class="wrap hero-inner">
+    <p class="kicker">Indie game studio</p>
     <h1>YouJavu Studio</h1>
-    <p class="tagline">Cosy games and apps for your phone</p>
-    <p>Relaxing puzzles with characters you'll love, made with care. No timers, no pressure: play at your own pace.</p>
-  </section>
+    <p class="tagline">Cosy games with characters you'll love</p>
+    <p class="lead">Relaxing puzzles, made with care. No timers, no pressure: play at your own pace.</p>
+    <div class="parade" aria-hidden="true">
+      <img src="/img/home/bs_char_glitz_happy.webp" alt="" style="--d:0s">
+      <img src="/img/home/bs_char_dash_happy.webp" alt="" style="--d:.18s">
+      <img class="chef" src="/img/home/tc_chef_paris_cheer.webp" alt="" style="--d:.36s">
+      <img src="/img/home/bs_char_snug_happy.webp" alt="" style="--d:.54s">
+      <img src="/img/home/bs_char_dozy_happy.webp" alt="" style="--d:.72s">
+    </div>
+    <a class="btn glow" href="#games">Meet our games</a>
+  </div>
+  <svg class="wave" viewBox="0 0 1440 80" preserveAspectRatio="none" aria-hidden="true"><path d="M0 40 C 240 90 480 0 720 30 C 960 60 1200 10 1440 40 L1440 80 L0 80 Z"/></svg>
+</section>
 
-  <section class="games" id="games">
-    <div class="card">
-      <div class="art"><img class="bg" src="/img/ballsort-home.webp" alt="Ball Sort Moods home screen" style="object-position: center 30%"></div>
-      <div class="body">
-        <div class="head">
-          <img class="icon" src="/img/ballsort-icon.webp" alt="Ball Sort Moods icon">
-          <div><h2>Ball Sort Moods</h2><span class="tag live">Out now on Android</span></div>
-        </div>
-        <p>Sort 14 cute Moods into their tubes, send them riding on roller coasters, and solve 6,000 handmade puzzles.</p>
-        <div class="btns">
-          <a class="btn light" href="/ballsortmoods/">See the game</a>
-          <a class="btn" href="https://play.google.com/store/apps/details?id=app.ballsortmoods" target="_blank" rel="noopener">Google Play</a>
-          <span class="btn off">App Store: soon</span>
-        </div>
+<main class="wrap" id="games">
+
+  <!-- BALL SORT MOODS -->
+  <article class="game" data-game="ballsort">
+    <a class="stage stage-bs" data-play href="https://play.google.com/store/apps/details?id=app.ballsortmoods" aria-label="Get Ball Sort Moods on Google Play">
+      <span class="tubes" aria-hidden="true">
+        <span class="tube"><img src="/img/home/bs_char_snug_happy.webp" alt=""><img src="/img/home/bs_char_dash_happy.webp" alt=""><img src="/img/home/bs_char_glitz_happy.webp" alt=""></span>
+        <span class="tube"><img src="/img/home/bs_char_dash_happy.webp" alt=""><img src="/img/home/bs_char_snug_happy.webp" alt=""><img class="jumper" src="/img/home/bs_char_glitz_happy.webp" alt=""></span>
+        <span class="tube"><img src="/img/home/bs_char_glitz_happy.webp" alt=""><img src="/img/home/bs_char_dozy_happy.webp" alt=""><img src="/img/home/bs_char_dash_happy.webp" alt=""></span>
+        <span class="tube"><img src="/img/home/bs_char_dozy_happy.webp" alt=""></span>
+      </span>
+      <span class="bubble" aria-hidden="true">Let's play!</span>
+      <span class="burst" aria-hidden="true"></span>
+      <span class="hint" aria-hidden="true">Tap me!</span>
+    </a>
+    <div class="info">
+      <div class="head">
+        <img class="icon" src="/img/ballsort-icon.jpg" alt="Ball Sort Moods icon">
+        <div><h2>Ball Sort Moods</h2><span class="tag live">Out now on Android</span></div>
+      </div>
+      <p>Sort 14 cute Moods into their tubes, send them riding on roller coasters, and solve 6,000 handmade puzzles.</p>
+      <div class="btns">
+        <a class="btn store" data-play href="https://play.google.com/store/apps/details?id=app.ballsortmoods">Get it on Google Play</a>
+        <a class="btn light" href="/ballsortmoods/">See the game</a>
+        <span class="btn off">App Store: soon</span>
       </div>
     </div>
+  </article>
 
-    <div class="card">
-      <div class="art"><img class="bg" src="/img/tilecafetrip-cafe.webp" alt="Tile Café Trip café" style="object-position: center 40%"></div>
-      <div class="body">
-        <div class="head">
-          <img class="icon" src="/img/tilecafetrip-icon.webp" alt="Tile Café Trip icon">
-          <div><h2>Tile Café Trip</h2><span class="tag">Coming soon</span></div>
-        </div>
-        <p>Match three tiles to cook a dish, serve your guests and fill your café, then fly on to the next country. 10 countries, 10 chefs and 3,000 cosy levels.</p>
-        <div class="btns">
-          <a class="btn light" href="/tilecafetrip/">See the game</a>
-          <span class="btn off">Google Play: soon</span>
-          <span class="btn off">App Store: soon</span>
-        </div>
+  <!-- TILE CAFÉ TRIP -->
+  <article class="game flip" data-game="tile">
+    <a class="stage stage-tc" data-play href="https://play.google.com/store/apps/details?id=app.tilecafetrip" aria-label="Get Tile Café Trip on Google Play">
+      <span class="board" aria-hidden="true">
+        <span class="tile t1"><img loading="lazy" decoding="async" src="/img/home/tc_pic_strawberry.webp" alt=""></span>
+        <span class="tile decoy d1"><img loading="lazy" decoding="async" src="/img/home/tc_pic_croissant.webp" alt=""></span>
+        <span class="tile t2"><img loading="lazy" decoding="async" src="/img/home/tc_pic_strawberry.webp" alt=""></span>
+        <span class="tile decoy d2"><img loading="lazy" decoding="async" src="/img/home/tc_pic_lemon.webp" alt=""></span>
+        <span class="tile t3"><img loading="lazy" decoding="async" src="/img/home/tc_pic_strawberry.webp" alt=""></span>
+      </span>
+      <span class="tray" aria-hidden="true"><b class="s1"></b><b class="s2"></b><b class="s3"></b><b></b><b></b><b></b><b></b></span>
+      <img loading="lazy" decoding="async" class="dish" src="/img/home/tc_made_strawberry.webp" alt="" aria-hidden="true">
+      <img loading="lazy" decoding="async" class="chef-peek" src="/img/home/tc_chef_paris_idle.webp" alt="" aria-hidden="true">
+      <img loading="lazy" decoding="async" class="chef-cheer" src="/img/home/tc_chef_paris_cheer.webp" alt="" aria-hidden="true">
+      <span class="bubble" aria-hidden="true">Welcome to my café!</span>
+      <span class="hint" aria-hidden="true">Tap me!</span>
+    </a>
+    <div class="info">
+      <div class="head">
+        <img loading="lazy" decoding="async" class="icon" src="/img/tilecafetrip-icon.webp" alt="Tile Café Trip icon">
+        <div><h2>Tile Café Trip</h2><span class="tag live">Out now on Android</span></div>
+      </div>
+      <p>Match three tiles to cook a dish, serve your guests and fill your café, then fly on to the next country. Every country has its own chef.</p>
+      <div class="btns">
+        <a class="btn store" data-play href="https://play.google.com/store/apps/details?id=app.tilecafetrip">Get it on Google Play</a>
+        <a class="btn light" href="/tilecafetrip/">See the game</a>
+        <span class="btn off">App Store: soon</span>
       </div>
     </div>
+  </article>
 
-    <div class="card">
-      <div class="body">
-        <div class="head">
-          <img class="icon" src="/img/youjavu-icon.webp" alt="YouJavu icon">
-          <div><h2>YouJavu</h2><span class="tag dev">Rewind Your Days</span></div>
-        </div>
+  <!-- MOODS SMASH -->
+  <article class="game" data-game="smash">
+    <a class="stage stage-ms" data-play href="/moodssmash/" aria-label="See Moods Smash">
+      <span class="jars" aria-hidden="true">
+        <img loading="lazy" decoding="async" class="jar j-left" src="/img/home/ms_jar_blue_1_intact.webp" alt="">
+        <img loading="lazy" decoding="async" class="jar j-right" src="/img/home/ms_jar_yellow_1_intact.webp" alt="">
+        <img loading="lazy" decoding="async" class="jar j-top" src="/img/home/ms_jar_red_1_intact.webp" alt="">
+      </span>
+      <span class="shards" aria-hidden="true"></span>
+      <span class="launcher" aria-hidden="true">
+        <img loading="lazy" decoding="async" src="/img/home/ms_front_launcher_base.webp" alt="">
+        <img loading="lazy" decoding="async" src="/img/home/ms_front_launcher_barrel_back.webp" alt="">
+        <img loading="lazy" decoding="async" class="plunger" src="/img/home/ms_front_launcher_plunger.webp" alt="">
+        <img loading="lazy" decoding="async" src="/img/home/ms_front_launcher_barrel_front.webp" alt="">
+      </span>
+      <img loading="lazy" decoding="async" class="mood" src="/img/home/ms_dash_free.webp" alt="" aria-hidden="true">
+      <span class="smash-word" aria-hidden="true">SMASH!</span>
+      <span class="hint" aria-hidden="true">Tap me!</span>
+    </a>
+    <div class="info">
+      <div class="head">
+        <img loading="lazy" decoding="async" class="icon" src="/img/moodssmash-icon.webp" alt="Moods Smash icon">
+        <div><h2>Moods Smash</h2><span class="tag">Coming soon</span></div>
+      </div>
+      <p>The sorting machine locked the Moods' friends in glass jars. Aim the launcher, fire a Mood at a jar of its own colour and smash their friends free.</p>
+      <div class="btns">
+        <a class="btn store" data-play href="/moodssmash/">See the game</a>
+        <span class="btn off">Google Play: soon</span>
+        <span class="btn off">App Store: soon</span>
+      </div>
+    </div>
+  </article>
+
+  <!-- ALSO FROM US -->
+  <section class="also">
+    <h3>Also from us</h3>
+    <div class="mini">
+      <img loading="lazy" decoding="async" class="icon" src="/img/youjavu-icon.webp" alt="YouJavu icon">
+      <div>
+        <h2>YouJavu <span class="tag dev">Rewind Your Days</span></h2>
         <p>A calendar that walks backwards through your life, showing your own photos, videos and notes from each day. Private: nothing leaves your phone.</p>
-        <div class="btns">
-          <a class="btn light" href="/youjavu/">See the app</a>
-        </div>
       </div>
+      <a class="btn light" href="/youjavu/">See the app</a>
     </div>
   </section>
 </main>
 
 <footer class="bottom"><div class="wrap">
   <span>© 2026 YouJavu</span>
-  <span><a href="/ballsortmoods/privacy.html">Ball Sort Moods privacy</a> · <a href="/tilecafetrip/privacy.html">Tile Café Trip privacy</a> · <a href="/youjavu/privacy.html">YouJavu privacy</a> · <a href="/support.html">Support</a></span>
+  <span><a href="/ballsortmoods/privacy.html">Ball Sort Moods privacy</a> · <a href="/tilecafetrip/privacy.html">Tile Café Trip privacy</a> · <a href="/moodssmash/privacy.html">Moods Smash privacy</a> · <a href="/youjavu/privacy.html">YouJavu privacy</a> · <a href="/support.html">Support</a></span>
 </div></footer>
+
+<script src="/home.js" defer></script>
 </body>
 </html>

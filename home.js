@@ -191,3 +191,127 @@
     if (e.persisted) Array.prototype.forEach.call(document.querySelectorAll('.stage'), reset);
   });
 })();
+
+// ---- YouJavu Town (hero): coaster cart, gentle parallax, clickable buildings, peeking Moods ----
+(function () {
+  'use strict';
+  var town = document.getElementById('town');
+  var calm = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var phoneQ = window.matchMedia('(max-width: 700px)');
+  var fineQ = window.matchMedia('(hover: hover) and (pointer: fine)');
+
+  // Turkish visitors meet Chef Turkey in the café.
+  if (/^tr\b/i.test(navigator.language || '')) {
+    var tc = document.querySelector('.stage-tc');
+    if (tc) {
+      tc.querySelector('.chef-peek').src = '/img/town/chef_turkey_wave.webp';
+      tc.querySelector('.chef-cheer').src = '/img/town/chef_turkey_cheer.webp';
+      tc.querySelector('.bubble').textContent = 'Kafeme hoş geldin!';
+    }
+  }
+
+  // Moods peek over the cards when they scroll into view.
+  var peeks = document.querySelectorAll('.has-peek');
+  if ('IntersectionObserver' in window && !calm) {
+    var po = new IntersectionObserver(function (es) {
+      es.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('seen'); po.unobserve(e.target); } });
+    }, { threshold: 0.35 });
+    Array.prototype.forEach.call(peeks, function (p) { po.observe(p); });
+  } else {
+    Array.prototype.forEach.call(peeks, function (p) { p.classList.add('seen'); });
+  }
+
+  if (!town) return;
+
+  // Clickable buildings: show the name, then glide down to that game.
+  Array.prototype.forEach.call(town.querySelectorAll('.spot'), function (spot) {
+    var layer = spot.closest('.layer');
+    spot.addEventListener('mouseenter', function () { layer.classList.add('hot'); });
+    spot.addEventListener('mouseleave', function () { layer.classList.remove('hot'); });
+    spot.addEventListener('focus', function () { layer.classList.add('hot'); });
+    spot.addEventListener('blur', function () { layer.classList.remove('hot'); });
+    spot.addEventListener('click', function (e) {
+      var card = document.getElementById(spot.dataset.game);
+      if (!card) return;
+      e.preventDefault();
+      spot.classList.add('tapped'); layer.classList.add('hot');
+      setTimeout(function () {
+        card.scrollIntoView({ behavior: calm ? 'auto' : 'smooth', block: 'center' });
+        spot.classList.remove('tapped'); layer.classList.remove('hot');
+        card.classList.remove('flash'); void card.offsetWidth; card.classList.add('flash');
+      }, calm ? 0 : 450);
+    });
+  });
+
+  // Coaster track centre lines from Astra (x, y on the 2400x1350 / 1080x1600 pictures).
+  var DESK = [1,962,103,974,206,976,308,964,407,935,500,891,584,832,658,761,712,674,689,581,595,542,493,537,391,551,293,582,203,632,163,719,246,772,349,777,450,760,547,727,639,681,726,625,807,562,883,494,956,421,1025,344,1097,271,1181,212,1276,174,1378,163,1480,178,1575,217,1661,273,1742,335,1832,387,1929,418,2032,420,2130,392,2223,347,2310,294,2396,236];
+  var PHONE = [0,760,48,765,96,765,145,761,192,753,239,740,283,721,322,693,349,653,348,606,314,573,267,560,219,558,171,564,125,579,87,608,78,653,118,678,166,675,212,662,256,643,298,619,338,591,374,560,408,525,440,489,473,453,506,418,542,386,584,361,631,352,677,363,719,388,762,409,810,417,858,412,903,397,947,376,989,352,1032,329,1075,308];
+  function makePath(a, W, H) {
+    var p = [], L = [0];
+    for (var i = 0; i < a.length; i += 2) p.push({ x: a[i], y: a[i + 1] });
+    for (var j = 1; j < p.length; j++) L.push(L[j - 1] + Math.hypot(p[j].x - p[j - 1].x, p[j].y - p[j - 1].y));
+    return { p: p, L: L, total: L[L.length - 1], W: W, H: H };
+  }
+  var paths = { desk: makePath(DESK, 2400, 1350), phone: makePath(PHONE, 1080, 1600) };
+  function at(path, s) {
+    s = Math.max(0, Math.min(path.total, s));
+    var i = 1; while (i < path.L.length - 1 && path.L[i] < s) i++;
+    var a = path.p[i - 1], b = path.p[i], t = (s - path.L[i - 1]) / ((path.L[i] - path.L[i - 1]) || 1);
+    return { x: a.x + (b.x - a.x) * t, y: a.y + (b.y - a.y) * t };
+  }
+
+  var cart = town.querySelector('.cart');
+  var layers = Array.prototype.map.call(town.querySelectorAll('.layer'), function (el) { return { el: el, d: parseFloat(el.dataset.depth) || 0 }; });
+  var path = phoneQ.matches ? paths.phone : paths.desk;
+  var s = path.total * 0.45, pauseUntil = 0, running = true, looping = false, last = 0;
+  var mouse = { x: 0, y: 0 }, cur = { x: 0, y: 0 };
+
+  function placeCart() {
+    var d = path.total * 0.012;
+    var p = at(path, s), a = at(path, s - d), b = at(path, s + d);
+    var dx = b.x - a.x, dy = b.y - a.y, flip = dx < 0;
+    var ang = flip ? Math.atan2(-dy, -dx) : Math.atan2(dy, dx);
+    cart.style.left = (p.x / path.W * 100) + '%';
+    cart.style.top = (p.y / path.H * 100) + '%';
+    cart.style.transform = 'translate(-50%, -95.5%) rotate(' + ang.toFixed(3) + 'rad) scaleX(' + (flip ? -1 : 1) + ')';
+    return dy / (Math.hypot(dx, dy) || 1);
+  }
+  function onMedia() { path = phoneQ.matches ? paths.phone : paths.desk; s = path.total * (calm ? 0.72 : 0.45); placeCart(); }
+  if (phoneQ.addEventListener) phoneQ.addEventListener('change', onMedia);
+
+  if (calm) { s = path.total * 0.72; placeCart(); cart.classList.add('on'); return; }
+
+  if (fineQ.matches) {
+    window.addEventListener('mousemove', function (e) {
+      mouse.x = e.clientX / window.innerWidth - 0.5; mouse.y = e.clientY / window.innerHeight - 0.5;
+    }, { passive: true });
+  }
+  if ('IntersectionObserver' in window) {
+    new IntersectionObserver(function (es) { running = es[0].isIntersecting; start(); }).observe(town);
+  }
+
+  function start() { if (running && !looping) { looping = true; last = 0; requestAnimationFrame(tick); } }
+  function tick(now) {
+    if (!running) { looping = false; return; }
+    var dt = last ? Math.min(0.05, (now - last) / 1000) : 0; last = now;
+    // cart
+    if (now >= pauseUntil) {
+      if (!cart.classList.contains('on')) cart.classList.add('on');
+      var slope = placeCart();
+      var speed = path.total / 9 * Math.max(0.55, Math.min(1.9, 1 + 0.9 * slope));
+      s += speed * dt;
+      if (s >= path.total) { cart.classList.remove('on'); pauseUntil = now + 1500; s = 0; }
+    }
+    // parallax: layers drift with the mouse (computer) and the sky lags when scrolling
+    cur.x += (mouse.x - cur.x) * 0.06; cur.y += (mouse.y - cur.y) * 0.06;
+    var sy = window.scrollY || 0;
+    for (var i = 0; i < layers.length; i++) {
+      var L = layers[i];
+      var tx = -cur.x * L.d * 2.2, ty = L.d < 0.5 ? sy * (0.5 - L.d) * 0.5 : 0;
+      L.el.style.transform = 'translate(' + tx.toFixed(3) + '%,' + ty.toFixed(1) + 'px)';
+    }
+    requestAnimationFrame(tick);
+  }
+  placeCart();
+  start();
+})();

@@ -6,6 +6,17 @@
 <title>YouJavu Studio</title>
 <meta name="description" content="YouJavu Studio makes cosy games for phones: Ball Sort Moods, Tile Café Trip and Moods Smash.">
 <meta name="theme-color" content="#1c1450">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://youjavu.com/">
+<meta property="og:title" content="YouJavu Studio">
+<meta property="og:description" content="Cosy games with characters you'll love: Ball Sort Moods, Tile Café Trip and Moods Smash.">
+<meta property="og:image" content="https://youjavu.com/img/town/share.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="YouJavu Town at night: a ball sort tower, a café and a jar shop under the YouJavu sign">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preload" as="image" href="/img/town/he_0_sky.webp" media="(min-width: 701px)">
+<link rel="preload" as="image" href="/img/town/ph_0_sky.webp" media="(max-width: 700px)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800;900&family=Baloo+2:wght@700;800&display=swap" rel="stylesheet">
@@ -26,13 +37,33 @@
     <p class="kicker">Indie game studio</p>
     <h1>YouJavu Studio</h1>
     <p class="tagline">Cosy games with characters you'll love</p>
-    <p class="lead">Relaxing puzzles, made with care. No timers, no pressure: play at your own pace.</p>
-    <div class="parade" aria-hidden="true">
-      <img src="/img/home/bs_char_glitz_happy.webp" alt="" style="--d:0s">
-      <img src="/img/home/bs_char_dash_happy.webp" alt="" style="--d:.18s">
-      <img class="chef" src="/img/home/tc_chef_paris_cheer.webp" alt="" style="--d:.36s">
-      <img src="/img/home/bs_char_snug_happy.webp" alt="" style="--d:.54s">
-      <img src="/img/home/bs_char_dozy_happy.webp" alt="" style="--d:.72s">
+  </div>
+
+  <div class="town" id="town">
+    <div class="canvas">
+      <div class="layer l0" data-depth="0.1">
+        <picture><source media="(max-width: 700px)" srcset="/img/town/ph_0_sky.webp"><img src="/img/town/he_0_sky.webp" alt="" decoding="async"></picture>
+      </div>
+      <div class="layer l1" data-depth="0.25">
+        <picture><source media="(max-width: 700px)" srcset="/img/town/ph_1_clouds.webp"><img src="/img/town/he_1_clouds.webp" alt="" decoding="async"></picture>
+      </div>
+      <div class="layer l2" data-depth="0.5">
+        <picture><source media="(max-width: 700px)" srcset="/img/town/ph_2_tower.webp"><img class="bld" src="/img/town/he_2_tower.webp" alt="" decoding="async"></picture>
+        <picture><source media="(max-width: 700px)" srcset="/img/town/ph_3_track.webp"><img src="/img/town/he_3_track.webp" alt="" decoding="async"></picture>
+        <img class="cart" src="/img/town/cart.webp" alt="" decoding="async">
+        <a class="spot spot-bs" href="#ballsort" data-game="ballsort"><span class="label">Ball Sort Moods</span></a>
+      </div>
+      <div class="layer l4" data-depth="0.7">
+        <picture><source media="(max-width: 700px)" srcset="/img/town/ph_4_cafe.webp"><img class="bld" src="/img/town/he_4_cafe.webp" alt="" decoding="async"></picture>
+        <a class="spot spot-tc" href="#tile" data-game="tile"><span class="label">Tile Café Trip</span></a>
+      </div>
+      <div class="layer l5" data-depth="0.8">
+        <picture><source media="(max-width: 700px)" srcset="/img/town/ph_5_jarshop.webp"><img class="bld" src="/img/town/he_5_jarshop.webp" alt="" decoding="async"></picture>
+        <a class="spot spot-ms" href="#smash" data-game="smash"><span class="label">Moods Smash</span></a>
+      </div>
+      <div class="layer l6" data-depth="1">
+        <picture><source media="(max-width: 700px)" srcset="/img/town/ph_6_ground.webp"><img src="/img/town/he_6_ground.webp" alt="" decoding="async"></picture>
+      </div>
     </div>
     <a class="btn glow" href="#games">Meet our games</a>
   </div>
@@ -42,7 +73,8 @@
 <main class="wrap" id="games">
 
   <!-- BALL SORT MOODS -->
-  <article class="game" data-game="ballsort">
+  <article class="game has-peek" id="ballsort" data-game="ballsort">
+    <img class="peek" src="/img/town/peek_glitz.webp" alt="" aria-hidden="true" loading="lazy" decoding="async">
     <a class="stage stage-bs" data-play href="https://play.google.com/store/apps/details?id=app.ballsortmoods" aria-label="Get Ball Sort Moods on Google Play">
       <span class="tubes" aria-hidden="true">
         <span class="tube"><img src="/img/home/bs_char_snug_happy.webp" alt=""><img src="/img/home/bs_char_dash_happy.webp" alt=""><img src="/img/home/bs_char_glitz_happy.webp" alt=""></span>
@@ -69,7 +101,7 @@
   </article>
 
   <!-- TILE CAFÉ TRIP -->
-  <article class="game flip" data-game="tile">
+  <article class="game flip" id="tile" data-game="tile">
     <a class="stage stage-tc" data-play href="https://play.google.com/store/apps/details?id=app.tilecafetrip" aria-label="Get Tile Café Trip on Google Play">
       <span class="board" aria-hidden="true">
         <span class="tile t1"><img loading="lazy" decoding="async" src="/img/home/tc_pic_strawberry.webp" alt=""></span>
@@ -80,8 +112,8 @@
       </span>
       <span class="tray" aria-hidden="true"><b class="s1"></b><b class="s2"></b><b class="s3"></b><b></b><b></b><b></b><b></b></span>
       <img loading="lazy" decoding="async" class="dish" src="/img/home/tc_made_strawberry.webp" alt="" aria-hidden="true">
-      <img loading="lazy" decoding="async" class="chef-peek" src="/img/home/tc_chef_paris_idle.webp" alt="" aria-hidden="true">
-      <img loading="lazy" decoding="async" class="chef-cheer" src="/img/home/tc_chef_paris_cheer.webp" alt="" aria-hidden="true">
+      <img loading="lazy" decoding="async" class="chef-peek" src="/img/town/chef_wave.webp" alt="" aria-hidden="true">
+      <img loading="lazy" decoding="async" class="chef-cheer" src="/img/town/chef_thumbs.webp" alt="" aria-hidden="true">
       <span class="bubble" aria-hidden="true">Welcome to my café!</span>
       <span class="hint" aria-hidden="true">Tap me!</span>
     </a>
@@ -100,7 +132,8 @@
   </article>
 
   <!-- MOODS SMASH -->
-  <article class="game" data-game="smash">
+  <article class="game has-peek" id="smash" data-game="smash">
+    <img class="peek" src="/img/town/peek_dash.webp" alt="" aria-hidden="true" loading="lazy" decoding="async">
     <a class="stage stage-ms" data-play href="/moodssmash/" aria-label="See Moods Smash">
       <span class="jars" aria-hidden="true">
         <img loading="lazy" decoding="async" class="jar j-left" src="/img/home/ms_jar_blue_1_intact.webp" alt="">
@@ -132,6 +165,17 @@
     </div>
   </article>
 
+  <!-- WHY YOU'LL LOVE OUR GAMES -->
+  <section class="why has-peek" aria-labelledby="why-h">
+    <img class="peek" src="/img/town/peek_snug.webp" alt="" aria-hidden="true" loading="lazy" decoding="async">
+    <h3 id="why-h">Why you'll love our games</h3>
+    <div class="why-row">
+      <div class="why-item"><img loading="lazy" decoding="async" src="/img/town/ba_relax.webp" alt=""><h4>Play at your own pace</h4><p>No timers, no pressure. Relax whenever you like.</p></div>
+      <div class="why-item"><img loading="lazy" decoding="async" src="/img/town/ba_characters.webp" alt=""><h4>Characters you'll love</h4><p>The cheeky Moods, and chefs from all over the world.</p></div>
+      <div class="why-item"><img loading="lazy" decoding="async" src="/img/town/ba_levels.webp" alt=""><h4>Thousands of levels</h4><p>Over 6,000 puzzles to solve across our games.</p></div>
+    </div>
+  </section>
+
   <!-- ALSO FROM US -->
   <section class="also">
     <h3>Also from us</h3>
@@ -146,6 +190,7 @@
   </section>
 </main>
 
+<div class="town-footer" aria-hidden="true"><img loading="lazy" decoding="async" src="/img/town/footer.webp" alt=""></div>
 <footer class="bottom"><div class="wrap">
   <span>© 2026 YouJavu</span>
   <span><a href="/ballsortmoods/privacy.html">Ball Sort Moods privacy</a> · <a href="/tilecafetrip/privacy.html">Tile Café Trip privacy</a> · <a href="/moodssmash/privacy.html">Moods Smash privacy</a> · <a href="/youjavu/privacy.html">YouJavu privacy</a> · <a href="/support.html">Support</a></span>
